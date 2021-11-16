@@ -1,3 +1,3 @@
-sub2/backend/init.json filter=lfs diff=lfs merge=lfs -text
-data/data.json filter=lfs diff=lfs merge=lfs -text
-data/dump.pkl filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:906270d0377c38be87b1ae4702b6b227f21a7879d409ea624a0ef5bbe2f37b20
+size 215
